@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+<img src="./github-metrics.svg">
 <!--
 **bass-bass/bass-bass** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
