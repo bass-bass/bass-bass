@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <!-- modes : theme=light,dark -->
 <!-- icons ： https://arc.net/l/quote/zizyykfh -->
 ## 🌱 Skills
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=java,js,spring,python,fastapi,sklearn,laravel,docker,linux,nginx,mysql" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=java,js,spring,python,fastapi,sklearn,laravel,docker,linux,nginx,mysql,maven,jenkins,git" />
 <br>
 
 ## 🏃‍♀️ Activities
